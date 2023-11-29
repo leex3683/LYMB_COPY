@@ -1,0 +1,110 @@
+[
+    {
+        "name": "Jumping jack",
+        "description": "A calisthenics exercise that involves jumping and moving arms and legs outward.",
+        "type": "Cardio",
+        "target": "Whole body"
+    },
+    {
+        "name": "Jump rope",
+        "description": "Skipping rope exercise that improves cardiovascular health and coordination.",
+        "type": "Cardio",
+        "target": "Legs, Arms, Shoulders"
+    },
+    {
+        "name": "Push up",
+        "description": "An exercise that targets the chest, shoulders, and triceps.",
+        "type": "Strength",
+        "target": "Chest, Shoulders, Triceps"
+    },
+    {
+        "name": "High knee",
+        "description": "A cardio exercise involving bringing knees up towards the chest alternately.",
+        "type": "Cardio",
+        "target": "Legs, Core"
+    },
+    {
+        "name": "Burpees",
+        "description": "A full-body exercise involving squatting, jumping, and a push-up.",
+        "type": "Cardio, Strength",
+        "target": "Whole body"
+    },
+    {
+        "name": "Squats",
+        "description": "A lower-body exercise that targets the quadriceps, hamstrings, and glutes.",
+        "type": "Strength",
+        "target": "Legs, Glutes"
+    },
+    {
+        "name": "Jump squats",
+        "description": "Squatting exercise with an explosive jump at the top, targeting legs and glutes.",
+        "type": "Cardio, Strength",
+        "target": "Legs, Glutes"
+    },
+    {
+        "name": "Plank",
+        "description": "An isometric exercise that engages the core muscles to maintain a position similar to a push-up.",
+        "type": "Core",
+        "target": "Core, Shoulders"
+    },
+    {
+        "name": "Mountain Climbers",
+        "description": "A dynamic exercise that mimics climbing, engaging the core, arms, and legs from a planking position.",
+        "type": "Cardio, Core",
+        "target": "Core, Arms, Legs"
+    },
+    {
+        "name": "Butterfly Stretch",
+        "description": "A stretch that opens up the hips and stretches the inner thighs, groin, and lower back.",
+        "type": "Stretch",
+        "target": "Hips, Inner Thighs, Groin, Lower Back"
+    },
+    {
+        "name": "Forward Fold",
+        "description": "A standing stretch that targets the hamstrings and lower back, promoting flexibility.",
+        "type": "Stretch",
+        "target": "Hamstrings, Lower Back"
+    },
+    {
+        "name": "Spinal Twist",
+        "description": "A seated or lying stretch that releases tension in the spine and increases flexibility.",
+        "type": "Stretch",
+        "target": "Spine, Torso"
+    },
+    {
+        "name": "Lunge Stretch",
+        "description": "A stretch that targets the hip flexors and quadriceps while improving balance and flexibility.",
+        "type": "Stretch",
+        "target": "Hip Flexors, Quadriceps"
+    },
+    {
+        "name": "Child's Pose",
+        "description": "A resting yoga pose that stretches the spine, hips, thighs, and ankles, promoting relaxation.",
+        "type": "Stretch",
+        "target": "Spine, Hips, Thighs, Ankles"
+    }, 
+    {
+        "name": "Russian Twists",
+        "description": "In a sitting position, involving twisting motions from side to side, while holding a weight or without any equipment.",
+        "type": "Core",
+        "target": "Obliques, Core"
+    },
+    {
+        "name": "Leg Raises",
+        "description": "Performed by lying flat on the back and raising both legs upwards.",
+        "type": "Core",
+        "target": "Lower Abs, Core"
+    },
+    {
+        "name": "Bicycle Crunches",
+        "description": "An exercise involving rotational movements where the elbow meets the opposite knee while lying on the back.",
+        "type": "Core",
+        "target": "Core, Obliques"
+    },
+    {
+        "name": "Lunges",
+        "description": "A unilateral lower-body exercise that involves stepping forward or backward and bending the knees.",
+        "type": "Strength",
+        "target": "Quadriceps, Hamstrings, Glutes, Calves"
+    }
+]

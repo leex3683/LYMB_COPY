@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Cardio Rodeo!",
+        "description": "A high-intensity cardio workout to boost your heart rate.",
+        "exercises": []
+    },
+    {
+        "name": "Strength Builder, no Equipments",
+        "description": "A workout focused on building strength and muscle.",
+        "exercises": []
+    },
+    {
+        "name": "Leg Day - Squatter!",
+        "description": "An intense workout focusing on the lower body.",
+        "exercises": []
+    }
+]

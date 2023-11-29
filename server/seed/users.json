@@ -1,0 +1,13 @@
+[
+  {
+    "username": "Test1",
+    "email": "Test1@gmail.com",
+    "_comment":"Password123!",
+    "password": "Password123!"
+  },
+  {
+    "username": "DavidBrown",
+    "email": "david@example.com",
+    "password": "password123!"
+  }
+]
